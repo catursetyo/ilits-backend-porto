@@ -1,0 +1,5 @@
+ilits-porto-backend
+*.exe
+*.db
+*.db-journal
+.env
